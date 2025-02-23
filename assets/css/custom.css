@@ -1,0 +1,15 @@
+.hover-shadow:hover {
+    transform: translateY(-5px);
+}
+
+.transition-300 {
+    transition: all 0.3s ease-in-out;
+}
+
+.card {
+    overflow: hidden;
+}
+
+.bg-gradient {
+    background: linear-gradient(120deg, #2962ff, #1565c0);
+}
