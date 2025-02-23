@@ -62,7 +62,7 @@
                 $languages->data_seek(0);
                 while ($lang = $languages->fetch_assoc()):
             ?>
-            <div class="col">
+            <div class="col mt-2">
                 <div class="card h-100 border-0 shadow-sm hover-shadow transition-300">
                     <?php if ($lang['icon_path']): ?>
                     <div class="text-center pt-4">
